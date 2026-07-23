@@ -155,10 +155,6 @@ If the answer is **no**, it probably does not belong.
 
 ## 5. Visual Identity
 
-## 5. Visual Identity
-
-## 5. Visual Identity
-
 The Continuum Ventures visual identity is built around a simple idea:
 
 **Progress through connection.**
